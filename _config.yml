@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Brenton Law"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/him"  
+  bio              : # URL
   location         : # URL
   employer         : # URL
   uri              : # URL
@@ -236,10 +236,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      # read_time: true
+      # comments: true
+      # share: true
+      # related: true
   # _pages
   - scope:
       path: ""
