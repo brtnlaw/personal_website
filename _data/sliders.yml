@@ -3,15 +3,65 @@
   captions: true
   images:
     - src: /images/alinea/01-01.jpg
-      alt: 
+      alt: "01-01: trout roe, green beans, cream and cracker, cake"
     - src: /images/alinea/01-02.jpg
-      alt: 
+      alt: "01-02: vegetable wand"
     - src: /images/alinea/01-03.jpg
-      alt: 
+      alt: "01-03: champagne"
     - src: /images/alinea/02.jpg
-      alt: 
+      alt: "02: garden gazpacho in glass flower, pistil spoon"
+    - src: /images/alinea/03-01.jpg
+      alt: "03-01: cobbler with walnut cream, quince"
+    - src: /images/alinea/03-02.jpg
+      alt: "03-02: with peach and country ham"
+    - src: /images/alinea/03-03.jpg
+      alt: "03-03: sherry from pouring pitchers into a fountain"
+    - src: /images/alinea/04.jpg
+      alt: "04: caviar, walnut, tapioca"
+    - src: /images/alinea/05.jpg
+      alt: "05: apple cider, celery juice in a horseradish shell"
+    - src: /images/alinea/06.jpg
+      alt: "06: potato ball speared over cold potato, truffle, parmesan"
+    - src: /images/alinea/07-01.jpg
+      alt: "07-01: black cod with potato chips"
+    - src: /images/alinea/07-02.jpg
+      alt: "07-02: ashed onion and mint dip"
+    - src: /images/alinea/08-01.jpg
+      alt: "08-01: 'sardine' eggplants"
+    - src: /images/alinea/08-02.jpg
+      alt: "08-02: butter over rye crisp"
+    - src: /images/alinea/08-03.jpg
+      alt: "08-03: herbs"
+    - src: /images/alinea/08-04.jpg
+      alt: "08-04: egg yolk and pickled vegetables"
+    - src: /images/alinea/08-05.jpg
+      alt: "08-05: assembled crisp"
+    - src: /images/alinea/09-01.jpg
+      alt: "09-01: biscuit hidden within golden duck"
+    - src: /images/alinea/09-02.jpg
+      alt: "09-02: with blueberry jam, foie gras"
+    - src: /images/alinea/10.jpg
+      alt: "10: squab with dried vegetables, rehydrated in jous"
+    - src: /images/alinea/11.jpg
+      alt: "11: chicken wing with sesame seeds and gooseberry sauce, gooseberry with matsutake mushrooms, rice block with uni and gooseberry"
+    - src: /images/alinea/12.jpg
+      alt: "12: black truffle, romaine lettuce, parmesan, all encased in pasta"
+    - src: /images/alinea/13.jpg
+      alt: "13: venison, rabbit, apple, onion, served with a stick on fire"
+    - src: /images/alinea/14-01.jpg
+      alt: "14-01: Australian wagyu short rib, parsnip chip, saffron dot, turnip mash"
+    - src: /images/alinea/14-02.jpg
+      alt: "14-02: jameed"
+    - src: /images/alinea/14-03.jpg
+      alt: "14-03: shaved jameed atop short rib"
+    - src: /images/alinea/15.jpg
+      alt: "15: parsnip puree with roasted onion"
+    - src: /images/alinea/16.jpg
+      alt: "16: Hubba Bubba infused tea, tapioca pearls, creme freche, hibiscus jam, thai long peppercorn"
+    - src: /images/alinea/17-02.jpg
+      alt: "17-02: liquid nitrogen banana ice cream, strawberry and banana cream with chocolate sauce, pineapple turnover cake with butterscotch crumbs"
     - src: /images/alinea/18.jpg
-      alt: 
+      alt: "18: green apple toffee balloon, helium"
   settings:
     height: "'auto'"
     effect: "'fade'"
