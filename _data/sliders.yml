@@ -1,11 +1,17 @@
 # example slider
-- selector: example_slider
+- selector: alinea_slider
   captions: true
   images:
-    - src: /images/500x300.png
-      alt: image one
-    - src: /images/500x300.png
-      alt: image two
+    - src: /images/alinea/01-01.jpg
+      alt: 
+    - src: /images/alinea/01-02.jpg
+      alt: 
+    - src: /images/alinea/01-03.jpg
+      alt: 
+    - src: /images/alinea/02.jpg
+      alt: 
+    - src: /images/alinea/18.jpg
+      alt: 
   settings:
     height: "'auto'"
     effect: "'fade'"
