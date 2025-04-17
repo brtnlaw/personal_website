@@ -1,4 +1,3 @@
-# example slider
 - selector: alinea_slider
   captions: true
   images:
@@ -55,13 +54,56 @@
     - src: /images/alinea/14-03.jpg
       alt: "14-03: shaved jameed atop short rib"
     - src: /images/alinea/15.jpg
-      alt: "15: parsnip puree with roasted onion"
+      alt: "15: parsnip pureé with roasted onion"
     - src: /images/alinea/16.jpg
       alt: "16: Hubba Bubba infused tea, tapioca pearls, creme freche, hibiscus jam, thai long peppercorn"
     - src: /images/alinea/17-02.jpg
       alt: "17-02: liquid nitrogen banana ice cream, strawberry and banana cream with chocolate sauce, pineapple turnover cake with butterscotch crumbs"
     - src: /images/alinea/18.jpg
       alt: "18: green apple toffee balloon, helium"
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: smyth_slider
+  captions: true
+  images:
+  - src: /images/smyth/01.jpg
+    alt: "01: sapote amazake with edible pineapple leaf"
+  - src: /images/smyth/02.jpg
+    alt: "02: kelp, spot prawn, fennel, dill, basil, tart"
+  - src: /images/smyth/03.jpg
+    alt: "03: quail egg, puff, seaweed, yolk sauce"
+  - src: /images/smyth/04.jpg
+    alt: "04: Dungeness crab, jackfruit"
+  - src: /images/smyth/05.jpg
+    alt: "05: crab kani custard, passionfruit, miso, amazake"
+  - src: /images/smyth/06.jpg
+    alt: "06: spring onion jelly, lobster consommé, rhubarb"
+  - src: /images/smyth/07.jpg
+    alt: "07: rose butter, artichoke vinaigrette, black walnut sauce, caviar"
+  - src: /images/smyth/08.jpg
+    alt: "08: avocado, eucalyptus, peanut milk, green apple, slushie"
+  - src: /images/smyth/09.jpg
+    alt: "09: buckwheat amazake, asparagus tips, young spruce, asparagus pureé"
+  - src: /images/smyth/10.jpg
+    alt: "10: steamed brook trout, kombu, congee, seaweed, turnip juice braise, soy glaze"
+  - src: /images/smyth/11-01.jpg
+    alt: "11-01: lamb multiple ways with lamb tongue draped over lamb rack, fried lamb fat on top, foie gras, lamb liver sausage"
+  - src: /images/smyth/11-02.jpg
+    alt: "11-02: milk bread with sourdough, lamb heart sauce with habañero peppers"
+  - src: /images/smyth/12.jpg
+    alt: "12: cheese, honey, pineapple, goat's milk yogurt"
+  - src: /images/smyth/13-01.jpg
+    alt: "13-01: banana custard shaped like a banana made with overripe banana peel oil, kombu braised in fruit, fruit demiglace"
+  - src: /images/smyth/13-02.jpg
+    alt: "13-02: black walnut truffle with caramel, bits of black walnut"
+  - src: /images/smyth/14-01.jpg
+    alt: "14-01: white chocolate ganachee quail eggs, lemon rind, sunflower, tart"
+  - src: /images/smyth/14-02.jpg
+    alt: "14-02: graham cracker shot with ganache, flowers from garden"
+  - src: /images/smyth/15.jpg
+    alt: "15: sea lettuce caramel"
   settings:
     height: "'auto'"
     effect: "'fade'"
