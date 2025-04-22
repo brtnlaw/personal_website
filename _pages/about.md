@@ -6,4 +6,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-After the slider, I need to figure out the light box. I would also like to include slides of the ambience as well as the price point.
+
+A website to house my professional profile, personal projects, as well as musings and opinions on food. 😊

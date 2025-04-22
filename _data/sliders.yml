@@ -1,5 +1,6 @@
 - selector: alinea_slider
   captions: true
+  bullets: true
   images:
     - src: /images/alinea/01-01.jpg
       alt: "01-01: trout roe, green beans, cream and cracker, cake"
@@ -67,6 +68,7 @@
 
 - selector: smyth_slider
   captions: true
+  bullets: true
   images:
   - src: /images/smyth/01.jpg
     alt: "01: sapote amazake with edible pineapple leaf"
