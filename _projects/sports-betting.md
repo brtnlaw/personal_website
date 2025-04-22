@@ -1,7 +1,7 @@
 ---
 title: "Sports Betting"
-# permalink: /projects/sports-betting/
-excerpt: "A Statistical Analysis of Betting Markets and Sports Outcomes<br/><img src='/images/500x300.png'>"
+permalink: /projects/sports-betting/
+excerpt: "Predicting CFB outcomes and gauging market opportunity.<br/><img src='/images/sports_betting.jpg'>"
 collection: projects
 layout: archive
 ---
