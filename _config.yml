@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Brenton Law"
 description              : &description "Personal Website"
 url                      : https://brtnlaw.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/personal" # the subpath of your site, e.g. "/blog"
 repository               : "brtnlaw/brtnlaw.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "brtnlaw"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

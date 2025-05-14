@@ -1,7 +1,7 @@
 ---
 title: "LoL Main Recommender"
 permalink: /projects/lol-main-recommender/
-excerpt: "Recommending champions to play based on player profile.<br/><img src='/images/lol_main_recommender.jpg'>"
+link: "https://github.com/brtnlaw/lol_main_recommender"
 collection: projects
 layout: archive
 ---

@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-A website to house my professional profile, personal projects, as well as musings and opinions on food. 😊
+University of California, Berkeley graduate in Applied Mathematics and Statistics with two years of experience in quantitative finance interested in the application of machine learning methods to solve consumer-facing problems. Incoming UCLA master's student studying Artifical Intelligence.
